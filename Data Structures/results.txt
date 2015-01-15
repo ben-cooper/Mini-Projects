@@ -1,0 +1,8 @@
+1,000,000 element sort results:
+
+-treap sort = 56s (55s in second)
+-splay sort = 87s (93s in second)
+-avl sort = 69s
+-heap sort = 80s (81s in second) (36s with in place)
+-quick sort = 11s (11s in second)
+-python's built in sort = 1s (written in c, disqualified!)

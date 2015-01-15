@@ -1,0 +1,8 @@
+'C:\\Users\\ben\\Desktop\\UTSC\\Side Projects\\Data Structures'
+
+pypy
+avl 30s
+treap 30s
+splay 19s
+heapsort (in place) 11s
+quick (out of place) 17s

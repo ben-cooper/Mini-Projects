@@ -1,0 +1,4 @@
+To do:
+
+Minebackup:
+-If problem arises use multithreading for copy command to prevent ui from hanging
